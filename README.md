@@ -22,8 +22,8 @@
 | ---- | ------ |
 | :white_check_mark: Write an initial README | [#401d1ae](https://github.com/peverelli-andrea/qwikblade/commit/401d1ae3f63be69de7bb68b9539def250b54834e) |
 | :white_check_mark: Scaffold a default Laravel project structure | [#401d1ae](https://github.com/peverelli-andrea/qwikblade/commit/401d1ae3f63be69de7bb68b9539def250b54834e) |
-| :white_check_mark: Making PoC branch | last commit |
-| :white_square_button: Write a basic Blade view called by a Laravel /test route | |
+| :white_check_mark: Making PoC branch | [#af200a0](https://github.com/peverelli-andrea/qwikblade/commit/af200a003270dbea914dc9615bc5f7d299b24971) |
+| :white_check_mark: Write a basic Blade view called by a Laravel /test route | last commit |
 | :white_square_button: Scaffold a Qwik lib mode directory structure| |
 | :white_square_button: Write a basic Qwik component class | |
 | :white_square_button: Write a basic Qwik component stub file | |
